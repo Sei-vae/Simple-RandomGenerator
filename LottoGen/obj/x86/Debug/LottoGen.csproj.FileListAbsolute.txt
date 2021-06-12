@@ -1,0 +1,29 @@
+E:\Schule\Pool\SAE\14b - Lotto-Generator\LottoGen\LottoGen\bin\Debug\LottoGen.exe
+E:\Schule\Pool\SAE\14b - Lotto-Generator\LottoGen\LottoGen\bin\Debug\LottoGen.pdb
+E:\Schule\Pool\SAE\14b - Lotto-Generator\LottoGen\LottoGen\obj\x86\Debug\LottoGen.LottoGen.resources
+E:\Schule\Pool\SAE\14b - Lotto-Generator\LottoGen\LottoGen\obj\x86\Debug\LottoGen.Properties.Resources.resources
+E:\Schule\Pool\SAE\14b - Lotto-Generator\LottoGen\LottoGen\obj\x86\Debug\LottoGen.csproj.GenerateResource.Cache
+E:\Schule\Pool\SAE\14b - Lotto-Generator\LottoGen\LottoGen\obj\x86\Debug\LottoGen.exe
+E:\Schule\Pool\SAE\14b - Lotto-Generator\LottoGen\LottoGen\obj\x86\Debug\LottoGen.pdb
+E:\Schule\Pool\SAE\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.exe
+E:\Schule\Pool\SAE\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.pdb
+E:\Schule\#Pool\SAE\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.exe
+E:\Schule\#Pool\SAE\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.pdb
+C:\Users\Bx\OneDrive - it.schule stuttgart\__Pool\SAE\Container\Arrays\Übungen\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\bin\Debug\LottoGen.exe
+C:\Users\Bx\OneDrive - it.schule stuttgart\__Pool\SAE\Container\Arrays\Übungen\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\bin\Debug\LottoGen.pdb
+C:\Users\Bx\OneDrive - it.schule stuttgart\__Pool\SAE\Container\Arrays\Übungen\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.csprojAssemblyReference.cache
+C:\Users\Bx\OneDrive - it.schule stuttgart\__Pool\SAE\Container\Arrays\Übungen\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.LottoGen.resources
+C:\Users\Bx\OneDrive - it.schule stuttgart\__Pool\SAE\Container\Arrays\Übungen\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.Properties.Resources.resources
+C:\Users\Bx\OneDrive - it.schule stuttgart\__Pool\SAE\Container\Arrays\Übungen\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.csproj.GenerateResource.cache
+C:\Users\Bx\OneDrive - it.schule stuttgart\__Pool\SAE\Container\Arrays\Übungen\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.csproj.CoreCompileInputs.cache
+C:\Users\Bx\OneDrive - it.schule stuttgart\__Pool\SAE\Container\Arrays\Übungen\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.exe
+C:\Users\Bx\OneDrive - it.schule stuttgart\__Pool\SAE\Container\Arrays\Übungen\14b - Lotto-Generator\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.pdb
+C:\Users\Sei\Desktop\Code\GITRESPO\LottoGen_Lsg\LottoGen\bin\Debug\LottoGen.exe
+C:\Users\Sei\Desktop\Code\GITRESPO\LottoGen_Lsg\LottoGen\bin\Debug\LottoGen.pdb
+C:\Users\Sei\Desktop\Code\GITRESPO\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.csprojAssemblyReference.cache
+C:\Users\Sei\Desktop\Code\GITRESPO\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.LottoGen.resources
+C:\Users\Sei\Desktop\Code\GITRESPO\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.Properties.Resources.resources
+C:\Users\Sei\Desktop\Code\GITRESPO\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.csproj.GenerateResource.cache
+C:\Users\Sei\Desktop\Code\GITRESPO\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.csproj.CoreCompileInputs.cache
+C:\Users\Sei\Desktop\Code\GITRESPO\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.exe
+C:\Users\Sei\Desktop\Code\GITRESPO\LottoGen_Lsg\LottoGen\obj\x86\Debug\LottoGen.pdb
